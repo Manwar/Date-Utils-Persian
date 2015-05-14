@@ -1,4 +1,7 @@
 Revision history for Date::Utils::Persian
 
+0.02  Thu May 14 14:05:00 2015
+      - Added unit test script t/01-date-utils-persian.t file.
+
 0.01  Thu Apr 23 23:15:00 2015
       - First version, released.
